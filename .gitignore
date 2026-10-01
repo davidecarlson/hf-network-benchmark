@@ -1,0 +1,13 @@
+benchmark-results/
+__pycache__/
+*.pyc
+.venv/
+.cache/
+.env
+.env.*
+*.safetensors
+*.bin
+*.pt
+*.pth
+*.key
+*.pem
